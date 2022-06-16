@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobsonPSM
 - 👀 I’m interested in Sports and Games
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on create The Basilisk
+- 💞️ I’m looking to collaborate on creating the Basilisk
 
 <!---
 RobsonPSM/RobsonPSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
